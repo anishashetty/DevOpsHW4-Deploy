@@ -1,3 +1,7 @@
 [submodule "App/DevOpsHW3"]
   path = App/DevOpsHW3
   url = https://github.com/anishashetty/DevOpsHW4-App.git
+
+[submodule "Deployment"]
+  path = Deployment
+  url = https://github.com/anishashetty/DevOpsHW4-Deployment.git
